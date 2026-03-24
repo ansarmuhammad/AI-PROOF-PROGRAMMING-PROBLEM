@@ -1,0 +1,1583 @@
+issue_key,current_status,assignee,change_date,change_author,changed_field,from_value,to_value,from_id,to_id
+TEST1-3477,Closed,SAM Z,9/30/25,SAM Z,IssueParentAssociation,,TEST1-3437,,201547
+TEST1-3477,Closed,SAM Z,9/30/25,SAM Z,assignee,,SAM Z,,60674b51b5e5510069666a58
+TEST1-3477,Closed,SAM Z,9/30/25,SAM Z,status,Open,In Progress,1,3
+TEST1-3477,Closed,SAM Z,9/30/25,SAM Z,status,In Progress,Dev Completed,3,11503
+TEST1-3477,Closed,SAM Z,9/30/25,SAM Z,status,Dev Completed,PR Generated,11503,12408
+TEST1-3477,Closed,SAM Z,10/15/25,SAM Z,status,PR Generated,Closed,12408,6
+TEST1-3468,Closed,RODNEY ALLISTER,9/26/25,RODNEY ALLISTER,Link,,This work item relates to TEST1-544,,TEST1-544
+TEST1-3468,Closed,RODNEY ALLISTER,9/26/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3468,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3468,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3468,Closed,RODNEY ALLISTER,9/29/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3468,Closed,RODNEY ALLISTER,9/30/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3468,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3468,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,Attachment,,image-20251001-083430.png,,153070
+TEST1-3468,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,Attachment,,image-20251001-083826.png,,153069
+TEST1-3468,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3468,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,Closed,Reopened,6,4
+TEST1-3468,Closed,RODNEY ALLISTER,10/2/25,RODNEY ALLISTER,assignee,RODNEY ALLISTER,SAMUEL NATURE,6164191b198b4f0068c7f00d,6131ddecdae0a20071abad07
+TEST1-3468,Closed,RODNEY ALLISTER,10/2/25,ANDREW ALAN,status,Reopened,In Progress,4,3
+TEST1-3468,Closed,RODNEY ALLISTER,10/2/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3468,Closed,RODNEY ALLISTER,10/3/25,SAMUEL NATURE,status,Dev Completed,In Progress,11503,3
+TEST1-3468,Closed,RODNEY ALLISTER,10/3/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3468,Closed,RODNEY ALLISTER,10/3/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3468,Closed,RODNEY ALLISTER,10/3/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3468,Closed,RODNEY ALLISTER,10/3/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3468,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3468,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,Attachment,,image-20251006-071129.png,,153313
+TEST1-3468,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3468,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,status,Closed,Reopened,6,4
+TEST1-3468,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,assignee,RODNEY ALLISTER,SAMUEL NATURE,6164191b198b4f0068c7f00d,6131ddecdae0a20071abad07
+TEST1-3468,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,status,Reopened,Closed,4,6
+TEST1-3468,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,assignee,SAMUEL NATURE,RODNEY ALLISTER,6131ddecdae0a20071abad07,6164191b198b4f0068c7f00d
+TEST1-3466,Closed,RODNEY ALLISTER,9/26/25,RODNEY ALLISTER,Link,,This work item relates to TEST1-544,,TEST1-544
+TEST1-3466,Closed,RODNEY ALLISTER,9/26/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3466,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,Attachment,,image-20250929-095713.png,,152981
+TEST1-3466,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,assignee,SAMUEL NATURE,MATHEW SINNER,6131ddecdae0a20071abad07,615af2a3c5388b006968ee2c
+TEST1-3466,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,assignee,MATHEW SINNER,SAMUEL NATURE,615af2a3c5388b006968ee2c,6131ddecdae0a20071abad07
+TEST1-3466,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3466,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3466,Closed,RODNEY ALLISTER,9/29/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3466,Closed,RODNEY ALLISTER,9/30/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3466,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,Attachment,,image-20250930-135643.png,,153026
+TEST1-3466,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Ready for Testing,Closed,10004,6
+TEST1-3466,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Closed,Ready for Testing,6,10004
+TEST1-3466,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Ready for Testing,Closed,10004,6
+TEST1-3466,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Closed,Reopened,6,4
+TEST1-3466,Closed,RODNEY ALLISTER,10/2/25,RODNEY ALLISTER,assignee,RODNEY ALLISTER,SAMUEL NATURE,6164191b198b4f0068c7f00d,6131ddecdae0a20071abad07
+TEST1-3466,Closed,RODNEY ALLISTER,10/2/25,ANDREW ALAN,status,Reopened,In Progress,4,3
+TEST1-3466,Closed,RODNEY ALLISTER,10/3/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3466,Closed,RODNEY ALLISTER,10/3/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3466,Closed,RODNEY ALLISTER,10/3/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3466,Closed,RODNEY ALLISTER,10/3/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3466,Closed,RODNEY ALLISTER,10/3/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3466,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,Attachment,,image-20251006-065321.png,,153307
+TEST1-3466,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3465,Closed,RODNEY ALLISTER,9/25/25,RODNEY ALLISTER,Link,,This work item relates to TEST1-544,,TEST1-544
+TEST1-3465,Closed,RODNEY ALLISTER,9/26/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3465,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3465,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3465,Closed,RODNEY ALLISTER,9/29/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3465,Closed,RODNEY ALLISTER,9/30/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3465,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3465,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,Attachment,,image-20251001-080121.png,,153065
+TEST1-3465,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3465,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,Closed,Reopened,6,4
+TEST1-3465,Closed,RODNEY ALLISTER,10/2/25,SAMUEL NATURE,status,Reopened,Ready for Testing,4,10004
+TEST1-3465,Closed,RODNEY ALLISTER,10/2/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3465,Closed,RODNEY ALLISTER,10/6/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3464,Closed,RODNEY ALLISTER,9/25/25,RODNEY ALLISTER,Link,,This work item blocks TEST1-544,,TEST1-544
+TEST1-3464,Closed,RODNEY ALLISTER,9/26/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3464,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3464,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3464,Closed,RODNEY ALLISTER,9/29/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,In Testing,Ready for Testing,10502,10004
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,In Testing,In Progress,10502,3
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,In Progress,Ready for Testing,3,10004
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,Automation for Jira,assignee,RODNEY ALLISTER,ULYSIS NAV,6164191b198b4f0068c7f00d,5b51b5f0da498c2c21cb92b0
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Closed,Reopened,6,4
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,assignee,ULYSIS NAV,MATHEW SINNER,5b51b5f0da498c2c21cb92b0,615af2a3c5388b006968ee2c
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,MATHEW SINNER,assignee,MATHEW SINNER,SAMUEL NATURE,615af2a3c5388b006968ee2c,6131ddecdae0a20071abad07
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,SAMUEL NATURE,status,Reopened,In Progress,4,3
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3464,Closed,RODNEY ALLISTER,9/30/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3464,Closed,RODNEY ALLISTER,10/1/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3464,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3464,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3464,Closed,RODNEY ALLISTER,10/1/25,RODNEY ALLISTER,status,Closed,Reopened,6,4
+TEST1-3464,Closed,RODNEY ALLISTER,10/2/25,RODNEY ALLISTER,status,Reopened,Ready for Testing,4,10004
+TEST1-3464,Closed,RODNEY ALLISTER,10/2/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3464,Closed,RODNEY ALLISTER,10/2/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3463,Closed,RODNEY ALLISTER,9/25/25,RODNEY ALLISTER,Link,,This work item blocks TEST1-544,,TEST1-544
+TEST1-3463,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3463,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3463,Closed,RODNEY ALLISTER,9/29/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3463,Closed,RODNEY ALLISTER,9/29/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3463,Closed,RODNEY ALLISTER,9/30/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3463,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3463,Closed,RODNEY ALLISTER,9/30/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3462,Closed,RODNEY ALLISTER,9/25/25,RODNEY ALLISTER,Link,,This work item relates to TEST1-544,,TEST1-544
+TEST1-3462,Closed,RODNEY ALLISTER,10/7/25,SAMUEL NATURE,status,Open,Ready for Testing,1,10004
+TEST1-3462,Closed,RODNEY ALLISTER,10/7/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3462,Closed,RODNEY ALLISTER,10/7/25,ULYSIS NAV,assignee,SAMUEL NATURE,RODNEY ALLISTER,6131ddecdae0a20071abad07,6164191b198b4f0068c7f00d
+TEST1-3462,Closed,RODNEY ALLISTER,10/8/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3460,Closed,ANDREW ALAN,9/22/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3460,Closed,ANDREW ALAN,10/28/25,ANDREW ALAN,Sprint,Phase 2 - Release 2.4,,4087,
+TEST1-3460,Closed,ANDREW ALAN,10/30/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3459,Closed,MATHEW SINNER,9/23/25,ANDREW ALAN,assignee,,SOLOMON,,635fbf721cc605b1fd176445
+TEST1-3459,Closed,MATHEW SINNER,9/25/25,ANDREW ALAN,assignee,SOLOMON,MATHEW SINNER,635fbf721cc605b1fd176445,615af2a3c5388b006968ee2c
+TEST1-3459,Closed,MATHEW SINNER,9/25/25,ANDREW ALAN,status,Open,In Progress,1,3
+TEST1-3459,Closed,MATHEW SINNER,9/25/25,ANDREW ALAN,Fix Version,,Phase 2 - Release 2.33,,21772
+TEST1-3459,Closed,MATHEW SINNER,9/26/25,ANDREW ALAN,status,In Progress,Closed,3,6
+TEST1-3458,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3453,,201988
+TEST1-3458,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,assignee,,SARAH KONOR,,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3458,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3458,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3458,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3458,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3458,Closed,ULYSIS NAV,9/24/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3458,Closed,ULYSIS NAV,9/24/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3458,Closed,ULYSIS NAV,9/24/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3457,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3453,,201988
+TEST1-3457,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3457,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3456,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3453,,201988
+TEST1-3456,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3456,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3455,Closed,MATHEW SINNER,9/22/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3453,,201988
+TEST1-3455,Closed,MATHEW SINNER,9/22/25,ANDREW ALAN,assignee,,MATHEW SINNER,,615af2a3c5388b006968ee2c
+TEST1-3455,Closed,MATHEW SINNER,9/22/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3454,Closed,SARAH KONOR,9/22/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3453,,201988
+TEST1-3454,Closed,SARAH KONOR,9/22/25,ANDREW ALAN,assignee,,SARAH KONOR,,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3454,Closed,SARAH KONOR,9/22/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3453,Closed,Unassigned,10/30/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3450,Closed,ULYSIS NAV,9/30/25,SAMUEL NATURE,assignee,SAMUEL NATURE,SAM Z,6131ddecdae0a20071abad07,60674b51b5e5510069666a58
+TEST1-3450,Closed,ULYSIS NAV,10/7/25,SAM Z,assignee,SAM Z,MATHEW SINNER,60674b51b5e5510069666a58,615af2a3c5388b006968ee2c
+TEST1-3450,Closed,ULYSIS NAV,10/16/25,MATHEW SINNER,assignee,MATHEW SINNER,Muhammad Raza Shah,615af2a3c5388b006968ee2c,63f38ffa4c355259db9c0da7
+TEST1-3450,Closed,ULYSIS NAV,10/20/25,Muhammad Raza Shah,status,Open,In Progress,1,3
+TEST1-3450,Closed,ULYSIS NAV,10/21/25,Muhammad Raza Shah,assignee,Muhammad Raza Shah,ULYSIS NAV,63f38ffa4c355259db9c0da7,5b51b5f0da498c2c21cb92b0
+TEST1-3450,Closed,ULYSIS NAV,10/21/25,Muhammad Raza Shah,status,In Progress,Ready for Testing,3,10004
+TEST1-3450,Closed,ULYSIS NAV,10/21/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3450,Closed,ULYSIS NAV,10/22/25,ULYSIS NAV,Attachment,,image-20251022-072517.png,,154471
+TEST1-3450,Closed,ULYSIS NAV,10/22/25,ULYSIS NAV,Attachment,,image-20251022-072547.png,,154470
+TEST1-3450,Closed,ULYSIS NAV,10/22/25,ULYSIS NAV,Attachment,,image-20251022-072446.png,,154469
+TEST1-3450,Closed,ULYSIS NAV,10/22/25,ULYSIS NAV,labels,,Regression_2.4,,
+TEST1-3450,Closed,ULYSIS NAV,10/22/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3449,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,Open,Ready for Testing,1,10004
+TEST1-3449,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3449,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3449,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3449,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3426,,TEST1-3426
+TEST1-3449,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,Fix Version,,Phase 2 - Release 2.32,,21739
+TEST1-3447,Closed,SOLOMON,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3447,Closed,SOLOMON,9/17/25,ULYSIS NAV,status,Open,Closed,1,6
+TEST1-3446,Closed,SAMUEL NATURE,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3446,Closed,SAMUEL NATURE,9/17/25,ULYSIS NAV,assignee,SOLOMON,SAMUEL NATURE,635fbf721cc605b1fd176445,6131ddecdae0a20071abad07
+TEST1-3446,Closed,SAMUEL NATURE,9/17/25,ULYSIS NAV,status,Open,Closed,1,6
+TEST1-3445,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Open,Ready for Testing,1,10004
+TEST1-3445,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,assignee,SOLOMON,ULYSIS NAV,635fbf721cc605b1fd176445,5b51b5f0da498c2c21cb92b0
+TEST1-3445,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3445,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3445,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3444,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Open,Ready for Testing,1,10004
+TEST1-3444,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3444,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3445,,TEST1-3445
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3424,,TEST1-3424
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3440,,TEST1-3440
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3443,,TEST1-3443
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3434,,TEST1-3434
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3435,,TEST1-3435
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3446,,TEST1-3446
+TEST1-3444,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3447,,TEST1-3447
+TEST1-3444,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,Link,,This work item relates to TEST1-3460,,TEST1-3460
+TEST1-3443,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,summary,  Mexico - UAT - Mobile Logo changes,  Mexico - Mobile Logo changes,,
+TEST1-3443,Closed,ULYSIS NAV,9/16/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3443,Closed,ULYSIS NAV,9/16/25,SARAH KONOR,description,"App icon update 
+
+Splash screen update  
+
+Drawer Logo update 
+
+Welcome screen logo update 
+
+App name update 
+
+ Login screen logo update ","* App icon update 
+* Splash screen update  
+* Drawer Logo update 
+* Welcome screen logo update 
+* App name update 
+*  Login screen logo update ",,
+TEST1-3443,Closed,ULYSIS NAV,9/16/25,SARAH KONOR,description,"* App icon update 
+* Splash screen update  
+* Drawer Logo update 
+* Welcome screen logo update 
+* App name update 
+*  Login screen logo update ","* App icon update 
+* Splash screen update  
+* -Drawer Logo update -
+* Welcome screen logo update 
+* App name update 
+*  Login screen logo update ",,
+TEST1-3443,Closed,ULYSIS NAV,9/16/25,SARAH KONOR,description,"* App icon update 
+* Splash screen update  
+* -Drawer Logo update -
+* Welcome screen logo update 
+* App name update 
+*  Login screen logo update ","* App icon update 
+* Splash screen update  
+* -Drawer Logo update -
+* -Welcome screen logo update -
+* -App name update -
+*  Login screen logo update ",,
+TEST1-3443,Closed,ULYSIS NAV,9/16/25,SARAH KONOR,description,"* App icon update 
+* Splash screen update  
+* -Drawer Logo update -
+* -Welcome screen logo update -
+* -App name update -
+*  Login screen logo update ","* App icon update 
+* Splash screen update  
+* -Drawer Logo update -
+* -Welcome screen logo update -
+* -App name update -
+* - Login screen logo update -",,
+TEST1-3443,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3443,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,description,"* App icon update 
+* Splash screen update  
+* -Drawer Logo update -
+* -Welcome screen logo update -
+* -App name update -
+* - Login screen logo update -","* -App icon update -
+* -Splash screen update  -
+* -Drawer Logo update -
+* -Welcome screen logo update -
+* -App name update -
+* - Login screen logo update -",,
+TEST1-3443,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3443,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3443,Closed,ULYSIS NAV,9/24/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3443,Closed,ULYSIS NAV,9/24/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3443,Closed,ULYSIS NAV,9/24/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3443,Closed,ULYSIS NAV,9/24/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3442,Closed,ULYSIS NAV,9/16/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3442,Closed,ULYSIS NAV,9/16/25,MATHEW SINNER,status,In Progress,Ready for Testing,3,10004
+TEST1-3442,Closed,ULYSIS NAV,9/16/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3442,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3442,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3442,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3426,,TEST1-3426
+TEST1-3442,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,Fix Version,,Phase 2 - Release 2.32,,21739
+TEST1-3441,Closed,ULYSIS NAV,9/16/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3441,Closed,ULYSIS NAV,9/16/25,MATHEW SINNER,status,In Progress,Ready for Testing,3,10004
+TEST1-3441,Closed,ULYSIS NAV,9/16/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3441,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3441,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3441,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3426,,TEST1-3426
+TEST1-3441,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,Fix Version,,Phase 2 - Release 2.32,,21739
+TEST1-3440,Closed,ULYSIS NAV,9/15/25,SARAH KONOR,IssueParentAssociation,,TEST1-3434,,201534
+TEST1-3440,Closed,ULYSIS NAV,9/15/25,SARAH KONOR,assignee,,SARAH KONOR,,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3440,Closed,ULYSIS NAV,9/15/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3440,Closed,ULYSIS NAV,9/15/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3440,Closed,ULYSIS NAV,9/15/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3440,Closed,ULYSIS NAV,9/16/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3440,Closed,ULYSIS NAV,9/16/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3440,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3440,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3440,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3439,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,Link,,This work item relates to TEST1-3407,,TEST1-3407
+TEST1-3439,Closed,ULYSIS NAV,9/19/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3439,Closed,ULYSIS NAV,9/19/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3439,Closed,ULYSIS NAV,9/19/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3439,Closed,ULYSIS NAV,9/19/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3439,Closed,ULYSIS NAV,9/19/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3439,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3439,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3437,Closed,ULYSIS NAV,9/12/25,Beatriz Carratalá Ortiz,IssueParentAssociation,,TEST1-35,,168439
+TEST1-3437,Closed,ULYSIS NAV,9/23/25,ANDREW ALAN,assignee,,SAMUEL NATURE,,6131ddecdae0a20071abad07
+TEST1-3437,Closed,ULYSIS NAV,9/23/25,ANDREW ALAN,Sprint,,Phase 2 - Release 2.4,,4087
+TEST1-3437,Closed,ULYSIS NAV,9/23/25,ANDREW ALAN,Fix Version,,Phase 2 - Release 2.4 ,,21146
+TEST1-3437,Closed,ULYSIS NAV,9/30/25,SAM Z,assignee,SAMUEL NATURE,SAM Z,6131ddecdae0a20071abad07,60674b51b5e5510069666a58
+TEST1-3437,Closed,ULYSIS NAV,9/30/25,SAM Z,status,Open,In Progress,1,3
+TEST1-3437,Closed,ULYSIS NAV,10/9/25,SAM Z,status,In Progress,Dev Completed,3,11503
+TEST1-3437,Closed,ULYSIS NAV,10/13/25,SAM Z,status,Dev Completed,PR Generated,11503,12408
+TEST1-3437,Closed,ULYSIS NAV,10/13/25,SAM Z,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3437,Closed,ULYSIS NAV,10/13/25,Automation for Jira,assignee,SAM Z,ULYSIS NAV,60674b51b5e5510069666a58,5b51b5f0da498c2c21cb92b0
+TEST1-3437,Closed,ULYSIS NAV,10/13/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3437,Closed,ULYSIS NAV,10/13/25,ULYSIS NAV,Attachment,,image-20251013-114519.png,,153713
+TEST1-3437,Closed,ULYSIS NAV,10/13/25,ULYSIS NAV,Attachment,,image-20251013-114435.png,,153714
+TEST1-3437,Closed,ULYSIS NAV,10/13/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3437,Closed,ULYSIS NAV,10/14/25,ULYSIS NAV,Attachment,,image-20251014-120354.png,,153827
+TEST1-3437,Closed,ULYSIS NAV,10/14/25,ULYSIS NAV,Attachment,,image-20251014-120332.png,,153828
+TEST1-3437,Closed,ULYSIS NAV,10/28/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,20025
+TEST1-3436,Closed,MATHEW SINNER,9/22/25,ANDREW ALAN,assignee,,MATHEW SINNER,,615af2a3c5388b006968ee2c
+TEST1-3436,Closed,MATHEW SINNER,9/23/25,MATHEW SINNER,status,Open,Closed,1,6
+TEST1-3435,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3435,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3435,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3435,Closed,ULYSIS NAV,9/15/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3435,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3435,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3435,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3434,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,issuetype,Bug,Task,1,3
+TEST1-3434,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3434,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3434,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3434,Closed,ULYSIS NAV,9/15/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3434,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3434,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,summary,Mexico - Web - Hotfix - Multiple groups,Mexico - BE/Web/Mobile - Hotfix - Multiple groups,,
+TEST1-3434,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3434,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3433,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Link,,This work item relates to TEST1-3410,,TEST1-3410
+TEST1-3433,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,summary,Web -  Field name should be 'Official File Number',Web -  Field name should be 'Official File Number'/ curly bracket is missing in english   / full stop is missing in spanish text,,
+TEST1-3433,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,description,"!image-20250912-113655.png|width=1515,height=729,alt=""image-20250912-113655.png""!
+
+Web -  Field name should be 'Official File Number'","Web -  Field name should be 'Official File Number'
+
+!image-20250912-113655.png|width=1515,height=729,alt=""image-20250912-113655.png""!
+
+h1. curly bracket is missing in english
+
+!image-20250912-115043.png|width=1536,height=864,alt=""image-20250912-115043.png""!
+
+h1. full stop is missing in spanish text
+
+!image-20250912-115106.png|width=1536,height=864,alt=""image-20250912-115106.png""!",,
+TEST1-3433,Closed,ULYSIS NAV,9/12/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3433,Closed,ULYSIS NAV,9/12/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3433,Closed,ULYSIS NAV,9/12/25,SAMUEL NATURE,status,Dev Completed,PR Generated,11503,12408
+TEST1-3433,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3433,Closed,ULYSIS NAV,9/15/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3433,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3433,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3432,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Link,,This work item relates to TEST1-3407,,TEST1-3407
+TEST1-3432,Closed,ULYSIS NAV,9/12/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3432,Closed,ULYSIS NAV,9/12/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3432,Closed,ULYSIS NAV,9/12/25,SAMUEL NATURE,status,Dev Completed,PR Generated,11503,12408
+TEST1-3432,Closed,ULYSIS NAV,9/15/25,SAMUEL NATURE,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3432,Closed,ULYSIS NAV,9/15/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3432,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3432,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3431,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Link,,This work item relates to TEST1-3429,,TEST1-3429
+TEST1-3431,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,assignee,ANDREW ALAN,MATHEW SINNER,712020:e772a2c1-4069-48d7-81e6-f08a381a7604,615af2a3c5388b006968ee2c
+TEST1-3431,Closed,ULYSIS NAV,9/15/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3431,Closed,ULYSIS NAV,9/15/25,MATHEW SINNER,status,In Progress,Ready for Testing,3,10004
+TEST1-3431,Closed,ULYSIS NAV,9/15/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3431,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3431,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3431,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3426,,TEST1-3426
+TEST1-3431,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,Fix Version,,Phase 2 - Release 2.32,,21739
+TEST1-3431,Closed,ULYSIS NAV,9/23/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18699
+TEST1-3430,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Link,,This work item relates to TEST1-2388,,TEST1-2388
+TEST1-3430,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,status,Open,Ready for Testing,1,10004
+TEST1-3430,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3430,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3430,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3429,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,summary,"Fatbook - During exam execution, question are not saving  exam have 3 questions but on result its shows 0","Fatbook - During exam execution, question are not saving  exam have 3 questions but on result its shows 0 / 500 error coming ",,
+TEST1-3429,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,description,"Fatbook - During exam execution, question are not saving 
+
+exam have 3 questions but on result its shows 0
+
+!image-20250911-125442.png|width=2058,height=1240,alt=""image-20250911-125442.png""!
+
+!image-20250911-125450.png|width=1920,height=760,alt=""image-20250911-125450.png""!","Fatbook - During exam execution, question are not saving 
+
+exam have 3 questions but on result its shows 0
+
+!image-20250911-125442.png|width=2058,height=1240,alt=""image-20250911-125442.png""!
+
+!image-20250911-125450.png|width=1920,height=760,alt=""image-20250911-125450.png""!
+
+
+
+h1. 500 error coming
+
+!image-20250912-071839.png|width=1528,height=693,alt=""image-20250912-071839.png""!
+
+
+
+!image-20250912-071246.png|width=1536,height=742,alt=""image-20250912-071246.png""!",,
+TEST1-3429,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Link,,This work item relates to TEST1-3431,,TEST1-3431
+TEST1-3429,Closed,ULYSIS NAV,9/15/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3429,Closed,ULYSIS NAV,9/15/25,MATHEW SINNER,status,In Progress,Dev Completed,3,11503
+TEST1-3429,Closed,ULYSIS NAV,9/15/25,MATHEW SINNER,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3429,Closed,ULYSIS NAV,9/15/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3429,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3429,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3429,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3426,,TEST1-3426
+TEST1-3429,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,Fix Version,,Phase 2 - Release 2.32,,21739
+TEST1-3428,Closed,RODNEY ALLISTER,9/15/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3428,Closed,RODNEY ALLISTER,9/15/25,MATHEW SINNER,status,In Progress,Ready for Testing,3,10004
+TEST1-3428,Closed,RODNEY ALLISTER,9/15/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3428,Closed,RODNEY ALLISTER,9/15/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3428,Closed,RODNEY ALLISTER,9/16/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3428,Closed,RODNEY ALLISTER,9/18/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3427,Closed,ULYSIS NAV,9/16/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3427,Closed,ULYSIS NAV,9/18/25,MATHEW SINNER,status,In Progress,Ready for Testing,3,10004
+TEST1-3427,Closed,ULYSIS NAV,9/18/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3427,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3427,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3426,Closed,ULYSIS NAV,9/11/25,ANDREW ALAN,assignee,,MATHEW SINNER,,615af2a3c5388b006968ee2c
+TEST1-3426,Closed,ULYSIS NAV,9/12/25,MATHEW SINNER,description,,"Once fatbook is created, newly added questions to the topic are not being picked when student tries to attempt fatbook.",,
+TEST1-3426,Closed,ULYSIS NAV,9/12/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3426,Closed,ULYSIS NAV,9/12/25,MATHEW SINNER,status,In Progress,Dev Completed,3,11503
+TEST1-3426,Closed,ULYSIS NAV,9/12/25,MATHEW SINNER,summary,fatbook fix,Fatbook - Newly added questions are not added,,
+TEST1-3426,Closed,ULYSIS NAV,9/12/25,MATHEW SINNER,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3426,Closed,ULYSIS NAV,9/12/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3426,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Sprint,,Phase 2 - Release 2.4,,4087
+TEST1-3426,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3426,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,description,"Once fatbook is created, newly added questions to the topic are not being picked when student tries to attempt fatbook.","Once fatbook is created, newly added questions to the topic are not being picked when student tries to attempt fatbook.
+
+
+
+Bea’s comment from email
+
+When we upload a file with new questions for Fatbook (e.g: this year´s official questions), they are not appearing in Fatbook.",,
+TEST1-3426,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3426,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3429,,TEST1-3429
+TEST1-3426,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3431,,TEST1-3431
+TEST1-3426,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3441,,TEST1-3441
+TEST1-3426,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3442,,TEST1-3442
+TEST1-3426,Closed,ULYSIS NAV,9/18/25,ULYSIS NAV,Link,,This work item relates to TEST1-3449,,TEST1-3449
+TEST1-3426,Closed,ULYSIS NAV,9/22/25,ANDREW ALAN,Fix Version,,Phase 2 - Release 2.32,,21739
+TEST1-3426,Closed,ULYSIS NAV,9/23/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18700
+TEST1-3425,Closed,ULYSIS NAV,9/11/25,ULYSIS NAV,IssueParentAssociation,,TEST1-2388,,184394
+TEST1-3425,Closed,ULYSIS NAV,9/11/25,ULYSIS NAV,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3425,Closed,ULYSIS NAV,9/11/25,ULYSIS NAV,status,Open,In Progress,1,3
+TEST1-3425,Closed,ULYSIS NAV,9/11/25,ULYSIS NAV,description,,"Tickets
+
+[https://10pearls.atlassian.net/browse/TEST1-166|https://10pearls.atlassian.net/browse/TEST1-166|smart-link] 
+
+[https://10pearls.atlassian.net/browse/TEST1-1953|https://10pearls.atlassian.net/browse/TEST1-1953|smart-link] 
+
+[https://10pearls.atlassian.net/browse/TEST1-1925|https://10pearls.atlassian.net/browse/TEST1-1925|smart-link] ",,
+TEST1-3425,Closed,ULYSIS NAV,9/22/25,RODNEY ALLISTER,status,In Progress,Closed,3,6
+TEST1-3424,Closed,ULYSIS NAV,9/11/25,ULYSIS NAV,description,"*Issue 1:*
+
+student group are not showing on dashboard
+
+!image-20250911-064618.png|width=1900,height=232,alt=""image-20250911-064618.png""!
+
+!image-20250911-064629.png|width=1201,height=805,alt=""image-20250911-064629.png""!
+
+group still not showing on UI, but coming from API
+
+!image-20250911-064703.png|width=1912,height=934,alt=""image-20250911-064703.png""!
+
+*Issue 2:*
+
+if student enrolls in 2 courses, course selection screen is not showing, the user landed to 1st course dashboard
+
+*Issue 3:*
+
+Admin is unable to navigate to the course selection screen, after selecting 1 course
+
+*Issue 4:*
+
+Need to remove old data after new integration job on 10 sep 2025
+
+!image-20250911-064906.png|width=1347,height=562,alt=""image-20250911-064906.png""!","*Issue 1:*
+
+student group are not showing on dashboard
+
+!image-20250911-064618.png|width=1900,height=232,alt=""image-20250911-064618.png""!
+
+!image-20250911-064629.png|width=1201,height=805,alt=""image-20250911-064629.png""!
+
+group still not showing on UI, but coming from API
+
+!image-20250911-064703.png|width=1912,height=934,alt=""image-20250911-064703.png""!
+
+*Issue 2:*
+
+if student enrolls in 2 courses, course selection screen is not showing, the user landed to 1st course dashboard
+
+*Issue 3:*
+
+Admin is unable to navigate to the course selection screen, after selecting 1 course
+
+*Issue 4:*
+
+Need to remove old data after new integration job on 10 sep 2025
+
+!image-20250911-064906.png|width=1347,height=562,alt=""image-20250911-064906.png""!
+
+*Issue 5:*
+
+Unable to start mock exam generator, although configurtaion are set and sujbet count are matched
+
+!image-20250911-070838.png|width=1336,height=542,alt=""image-20250911-070838.png""!
+
+!image-20250911-070846.png|width=1902,height=912,alt=""image-20250911-070846.png""!
+
+!image-20250911-070853.png|width=1908,height=890,alt=""image-20250911-070853.png""!
+
+*Issue 6:*
+
+Count are showing wrong for mock exam and course test
+
+results are  also wrong
+
+result calculating on correct and incorrect values , if values are wrong so result is also coming wrong
+
+!image-20250911-070923.png|width=1910,height=822,alt=""image-20250911-070923.png""!
+
+!image-20250911-070930.png|width=1920,height=881,alt=""image-20250911-070930.png""!",,
+TEST1-3424,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Open,Ready for Testing,1,10004
+TEST1-3424,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,assignee,ANDREW ALAN,ULYSIS NAV,712020:e772a2c1-4069-48d7-81e6-f08a381a7604,5b51b5f0da498c2c21cb92b0
+TEST1-3424,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3424,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3424,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,issuetype,Bug,Task,1,3
+TEST1-3424,Closed,ULYSIS NAV,9/17/25,ULYSIS NAV,Link,,This work item relates to TEST1-3444,,TEST1-3444
+TEST1-3423,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3407,,201079
+TEST1-3423,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,assignee,,SOLOMON,,635fbf721cc605b1fd176445
+TEST1-3423,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,assignee,SOLOMON,SARAH KONOR,635fbf721cc605b1fd176445,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3423,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3423,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3423,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3423,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3423,Closed,ULYSIS NAV,9/11/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3423,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,status,Ready for Testing,Closed,10004,6
+TEST1-3422,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3410,,201129
+TEST1-3422,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,assignee,,SARAH KONOR,,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3422,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3422,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3422,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3422,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3422,Closed,ULYSIS NAV,9/11/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3422,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,status,Ready for Testing,Closed,10004,6
+TEST1-3421,Closed,MARRY MEGAN,9/10/25,Beatriz Carratalá Ortiz,IssueParentAssociation,,TEST1-35,,168439
+TEST1-3421,Closed,MARRY MEGAN,9/10/25,ANDREW ALAN,assignee,,MARRY MEGAN,,712020:3b394fe2-abb4-4947-8922-e74eb2559398
+TEST1-3421,Closed,MARRY MEGAN,9/10/25,ANDREW ALAN,issuetype,Bug,Task,1,3
+TEST1-3421,Closed,MARRY MEGAN,9/10/25,MARRY MEGAN,status,Open,Closed,1,6
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,RODNEY ALLISTER,Link,,This work item relates to TEST1-2145,,TEST1-2145
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,RODNEY ALLISTER,description,"*Steps to reproduce:*
+
+# Go to the Qbank 
+# Upload the questions; they must be duplicates.
+# Click on next
+# Click on the question id tag to open the admin preview
+
+*Actual:*
+
+The preview opens in the same tab, causing the upload question flow to be dismissed, and the user has to re-upload the file.
+
+*Expected:*
+
+The preview should be opened in a separate tab ","*Steps to reproduce:*
+
+# Go to the Qbank 
+# Upload the questions; they must be duplicates.
+# Click on next
+# Click on the question id tag to open the admin preview
+
+*Actual:*
+
+The preview opens in the same tab, causing the upload question flow to be dismissed, and the user has to re-upload the file.
+
+*Expected:*
+
+The preview should be opened in a separate tab 
+
+*Note: This should also be fixed in the exam creation flow* ",,
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,ANDREW ALAN,issuetype,Bug,Task,1,3
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3420,Closed,RODNEY ALLISTER,9/10/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3420,Closed,RODNEY ALLISTER,9/11/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3420,Closed,RODNEY ALLISTER,9/12/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3418,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,assignee,,SAMUEL NATURE,,6131ddecdae0a20071abad07
+TEST1-3418,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,Link,,This work item blocks TEST1-2145,,TEST1-2145
+TEST1-3418,Closed,RODNEY ALLISTER,9/9/25,SAMUEL NATURE,status,Open,Ready for Testing,1,10004
+TEST1-3418,Closed,RODNEY ALLISTER,9/10/25,ULYSIS NAV,assignee,SAMUEL NATURE,RODNEY ALLISTER,6131ddecdae0a20071abad07,6164191b198b4f0068c7f00d
+TEST1-3418,Closed,RODNEY ALLISTER,9/10/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3418,Closed,RODNEY ALLISTER,9/10/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3417,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,IssueParentAssociation,,TEST1-1317,,175716
+TEST1-3417,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3417,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,status,Open,In Progress,1,3
+TEST1-3417,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,description,,"Exam Scheduling
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+
+
+Tutor Activities
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student ",,
+TEST1-3417,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,description,"Exam Scheduling
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+
+
+Tutor Activities
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student ","+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student ",,
+TEST1-3417,Closed,ULYSIS NAV,9/24/25,ULYSIS NAV,description,"+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student ","+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student ",,
+TEST1-3417,Closed,ULYSIS NAV,9/24/25,ULYSIS NAV,description,"+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student ","+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+4. Multiple groups
+
+5. Multiple Students
+
+6. Combine the Individual Student and the group 
+
+7. Combine the Multiple Student and group 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student 
+# .Multiple groups
+# Multiple Students
+# Combine the Individual Student and the group 
+# Combine the Multiple students and groups ",,
+TEST1-3417,Closed,ULYSIS NAV,9/29/25,ULYSIS NAV,description,"+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+4. Multiple groups
+
+5. Multiple Students
+
+6. Combine the Individual Student and the group 
+
+7. Combine the Multiple Student and group 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student 
+# .Multiple groups
+# Multiple Students
+# Combine the Individual Student and the group 
+# Combine the Multiple students and groups ","+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+4. Multiple groups
+
+5. Multiple Students
+
+6. Combine the Individual Student and the group 
+
+7. Combine the Multiple Student and group 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student 
+# .Multiple groups
+# Multiple Students
+# Combine the Individual Student and the group 
+# Combine the Multiple students and groups 
+
+
+
+
+
+*DB queries*
+
+select * from users where Email like '%student10pearlsprueba@amireducacion.com%'
+select * from course_relation where user_id  = 'd6bcc0f7-f901-485f-8ce7-0360965741be' and course_id = '1'
+select * from user_group where course_relation_id = '1917'
+select * from {{group}} where course_id = '1'",,
+TEST1-3417,Closed,ULYSIS NAV,9/29/25,ULYSIS NAV,description,"+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+4. Multiple groups
+
+5. Multiple Students
+
+6. Combine the Individual Student and the group 
+
+7. Combine the Multiple Student and group 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student 
+# .Multiple groups
+# Multiple Students
+# Combine the Individual Student and the group 
+# Combine the Multiple students and groups 
+
+
+
+
+
+*DB queries*
+
+select * from users where Email like '%student10pearlsprueba@amireducacion.com%'
+select * from course_relation where user_id  = 'd6bcc0f7-f901-485f-8ce7-0360965741be' and course_id = '1'
+select * from user_group where course_relation_id = '1917'
+select * from {{group}} where course_id = '1'","+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+4. Multiple groups
+
+5. Multiple Students
+
+6. Combine the Individual Student and the group 
+
+7. Combine the Multiple Student and group 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student 
+# .Multiple groups
+# Multiple Students
+# Combine the Individual Student and the group 
+# Combine the Multiple students and groups 
+
+
+
+
+
+*DB queries*
+
+select * from users where Email like '%student10pearlsprueba@amireducacion.com%'
+select * from course_relation where user_id  = 'd6bcc0f7-f901-485f-8ce7-0360965741be' and course_id = '1'
+select * from user_group where course_relation_id = '1917'
+select * from {{group}} where course_id = '1'
+
+
+
+select * from notifications
+
+ select * from notification_delivery_log
+
+ select * from user_device_tokens",,
+TEST1-3417,Closed,ULYSIS NAV,10/9/25,ULYSIS NAV,summary,QA Analysis & DB queries,QA Analysis & DB queries & Test data,,
+TEST1-3417,Closed,ULYSIS NAV,10/9/25,ULYSIS NAV,description,"+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+4. Multiple groups
+
+5. Multiple Students
+
+6. Combine the Individual Student and the group 
+
+7. Combine the Multiple Student and group 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student 
+# .Multiple groups
+# Multiple Students
+# Combine the Individual Student and the group 
+# Combine the Multiple students and groups 
+
+
+
+
+
+*DB queries*
+
+select * from users where Email like '%student10pearlsprueba@amireducacion.com%'
+select * from course_relation where user_id  = 'd6bcc0f7-f901-485f-8ce7-0360965741be' and course_id = '1'
+select * from user_group where course_relation_id = '1917'
+select * from {{group}} where course_id = '1'
+
+
+
+select * from notifications
+
+ select * from notification_delivery_log
+
+ select * from user_device_tokens","+*Exam Scheduling*+
+
+*Mock Exam*
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Course Test* 
+
+# All groups 
+
+# Individual group
+# Multiple groups
+
+*Fat Book*
+
+1. All groups 
+
+2. Individual group
+
+# Multiple groups
+
+
+
++*Tutor Activities*+
+
+*Self-Assessment*
+
+1. All groups and students
+
+2. Individual group
+
+3. Individual student 
+
+4. Multiple groups
+
+5. Multiple Students
+
+6. Combine the Individual Student and the group 
+
+7. Combine the Multiple Student and group 
+
+*Question Seeker*
+
+# All groups and students
+
+# Individual group
+
+# Individual student 
+# .Multiple groups
+# Multiple Students
+# Combine the Individual Student and the group 
+# Combine the Multiple students and groups 
+
+
+
+
+
+*DB queries*
+
+select * from users where Email like '%student10pearlsprueba@amireducacion.com%'
+select * from course_relation where user_id  = 'd6bcc0f7-f901-485f-8ce7-0360965741be' and course_id = '1'
+select * from user_group where course_relation_id = '1917'
+select * from {{group}} where course_id = '1'
+
+
+
+select * from notifications
+
+ select * from notification_delivery_log
+
+ select * from user_device_tokens
+
+
+
+*Test data*
+
+|Users|Group 1|Group 2|Group 3|
+|[student10pearlsprueba@amireducacion.com|mailto:student10pearlsprueba@amireducacion.com]|MÁLAGA 26|ALBACETE 26|BCN1 26|
+|[p.albaceteprueba.a12739@student.amireducacion.com|mailto:p.albaceteprueba.a12739@student.amireducacion.com]|no group | | |
+|[h.barcelonaprueba.a12728@student.amireducacion.com|mailto:h.barcelonaprueba.a12728@student.amireducacion.com]|OVIEDO 26| | |
+|[h.murciaprueba.a12725@student.amireducacion.com|mailto:h.murciaprueba.a12725@student.amireducacion.com]|CEU CH CASTELLÓN 26| | |",,
+TEST1-3417,Closed,ULYSIS NAV,10/10/25,ULYSIS NAV,status,In Progress,Closed,3,6
+TEST1-3416,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,IssueParentAssociation,,TEST1-1317,,175716
+TEST1-3416,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3416,Closed,ULYSIS NAV,10/2/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3415,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,IssueParentAssociation,,TEST1-1317,,175716
+TEST1-3415,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3415,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,status,Open,In Progress,1,3
+TEST1-3415,Closed,ULYSIS NAV,10/9/25,ULYSIS NAV,description,,"h4. Functional Web Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5099?sectionId=66038&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5099?sectionId=66038&groupType=3]
+
+h4. Functional Mobile Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5100?sectionId=66040&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5100?sectionId=66040&groupType=3]
+
+h4. Regression Web Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5115?sectionId=66042&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5115?sectionId=66042&groupType=3]
+
+h4. Regression Mobile Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5116?sectionId=66044&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5116?sectionId=66044&groupType=3]
+
+h4. Smoke Web Student
+
+[https://testworthy.us/TestChanges/GetDetails/1668/5112/589010|https://testworthy.us/TestChanges/GetDetails/1668/5112/589010]
+
+h4. Smoke Mobile Student
+
+[https://testworthy.us/TestChanges/GetDetails/1668/5113/589009|https://testworthy.us/TestChanges/GetDetails/1668/5113/589009]",,
+TEST1-3415,Closed,ULYSIS NAV,10/10/25,ULYSIS NAV,status,In Progress,Closed,3,6
+TEST1-3414,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,IssueParentAssociation,,TEST1-2145,,180611
+TEST1-3414,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,assignee,,RODNEY ALLISTER,,6164191b198b4f0068c7f00d
+TEST1-3414,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,status,Open,In Progress,1,3
+TEST1-3414,Closed,RODNEY ALLISTER,9/16/25,RODNEY ALLISTER,status,In Progress,Closed,3,6
+TEST1-3413,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,IssueParentAssociation,,TEST1-2145,,180611
+TEST1-3413,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,assignee,,RODNEY ALLISTER,,6164191b198b4f0068c7f00d
+TEST1-3413,Closed,RODNEY ALLISTER,9/9/25,RODNEY ALLISTER,status,Open,In Progress,1,3
+TEST1-3413,Closed,RODNEY ALLISTER,9/17/25,RODNEY ALLISTER,description,,"*Functional Cases:*
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5098?groupType=3&sectionId=64828|https://testworthy.us/TestCase/TestCaseList/1668/5098?groupType=3&sectionId=64828]
+
+*Regression Cases:*
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5114?groupType=3&sectionId=65014|https://testworthy.us/TestCase/TestCaseList/1668/5114?groupType=3&sectionId=65014]
+
+*Smoke Cases:*
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5111?sectionId=54952&groupType=1|https://testworthy.us/TestCase/TestCaseList/1668/5111?sectionId=54952&groupType=1]",,
+TEST1-3413,Closed,RODNEY ALLISTER,9/17/25,RODNEY ALLISTER,status,In Progress,Closed,3,6
+TEST1-3412,Closed,SOLOMON,9/8/25,Beatriz Carratalá Ortiz,IssueParentAssociation,,TEST1-24,,168110
+TEST1-3412,Closed,SOLOMON,9/8/25,ANDREW ALAN,assignee,,SOLOMON,,635fbf721cc605b1fd176445
+TEST1-3412,Closed,SOLOMON,9/10/25,ANDREW ALAN,status,Open,In Progress,1,3
+TEST1-3412,Closed,SOLOMON,10/27/25,ANDREW ALAN,status,In Progress,Closed,3,6
+TEST1-3410,Closed,ULYSIS NAV,9/8/25,Beatriz Carratalá Ortiz,IssueParentAssociation,,TEST1-1167,,175024
+TEST1-3410,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,priority,Medium,Minor,10100,4
+TEST1-3410,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,assignee,,SAMUEL NATURE,,6131ddecdae0a20071abad07
+TEST1-3410,Closed,ULYSIS NAV,9/10/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3410,Closed,ULYSIS NAV,9/10/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3410,Closed,ULYSIS NAV,9/10/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3410,Closed,ULYSIS NAV,9/10/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3410,Closed,ULYSIS NAV,9/11/25,ULYSIS NAV,Sprint,,Phase 2 - Release 2.4,,4087
+TEST1-3410,Closed,ULYSIS NAV,9/11/25,ANDREW ALAN,Fix Version,,Phase 2 - Release 2.4 ,,21146
+TEST1-3410,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3410,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Link,,This work item relates to TEST1-3433,,TEST1-3433
+TEST1-3410,Closed,ULYSIS NAV,9/16/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3410,Closed,ULYSIS NAV,10/28/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,20027
+TEST1-3409,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,IssueParentAssociation,,TEST1-2388,,184394
+TEST1-3409,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,assignee,,SARAH KONOR,,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3409,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3409,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3409,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3409,Closed,ULYSIS NAV,9/11/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3409,Closed,ULYSIS NAV,9/11/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3409,Closed,ULYSIS NAV,9/11/25,ANDREW ALAN,status,Ready for Testing,Closed,10004,6
+TEST1-3408,Closed,SAMUEL NATURE,9/8/25,ANDREW ALAN,IssueParentAssociation,,TEST1-2388,,184394
+TEST1-3408,Closed,SAMUEL NATURE,9/8/25,ANDREW ALAN,assignee,,SAMUEL NATURE,,6131ddecdae0a20071abad07
+TEST1-3408,Closed,SAMUEL NATURE,9/8/25,SAMUEL NATURE,assignee,SAMUEL NATURE,SAM Z,6131ddecdae0a20071abad07,60674b51b5e5510069666a58
+TEST1-3408,Closed,SAMUEL NATURE,9/9/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3408,Closed,SAMUEL NATURE,9/9/25,SAMUEL NATURE,assignee,SAM Z,SAMUEL NATURE,60674b51b5e5510069666a58,6131ddecdae0a20071abad07
+TEST1-3408,Closed,SAMUEL NATURE,9/10/25,ANDREW ALAN,status,In Progress,Closed,3,6
+TEST1-3407,Closed,ULYSIS NAV,9/8/25,Beatriz Carratalá Ortiz,IssueParentAssociation,,TEST1-24,,168110
+TEST1-3407,Closed,ULYSIS NAV,9/10/25,ANDREW ALAN,assignee,,SAMUEL NATURE,,6131ddecdae0a20071abad07
+TEST1-3407,Closed,ULYSIS NAV,9/10/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3407,Closed,ULYSIS NAV,9/11/25,ULYSIS NAV,Sprint,,Phase 2 - Release 2.4,,4087
+TEST1-3407,Closed,ULYSIS NAV,9/11/25,ANDREW ALAN,Fix Version,,Phase 2 - Release 2.4 ,,21146
+TEST1-3407,Closed,ULYSIS NAV,9/11/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3407,Closed,ULYSIS NAV,9/11/25,SAMUEL NATURE,status,Dev Completed,PR Generated,11503,12408
+TEST1-3407,Closed,ULYSIS NAV,9/11/25,SAMUEL NATURE,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3407,Closed,ULYSIS NAV,9/11/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3407,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,Link,,This work item relates to TEST1-3432,,TEST1-3432
+TEST1-3407,Closed,ULYSIS NAV,9/12/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3407,Closed,ULYSIS NAV,9/15/25,ULYSIS NAV,Link,,This work item relates to TEST1-3439,,TEST1-3439
+TEST1-3407,Closed,ULYSIS NAV,9/22/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3407,Closed,ULYSIS NAV,10/28/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,20024
+TEST1-3406,Closed,RODNEY ALLISTER,9/10/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3406,Closed,RODNEY ALLISTER,9/10/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3406,Closed,RODNEY ALLISTER,9/10/25,SAMUEL NATURE,status,Dev Completed,Ready for Testing,11503,10004
+TEST1-3406,Closed,RODNEY ALLISTER,9/10/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3406,Closed,RODNEY ALLISTER,9/10/25,ULYSIS NAV,assignee,ULYSIS NAV,RODNEY ALLISTER,5b51b5f0da498c2c21cb92b0,6164191b198b4f0068c7f00d
+TEST1-3406,Closed,RODNEY ALLISTER,9/12/25,RODNEY ALLISTER,status,Ready for Testing,In Testing,10004,10502
+TEST1-3406,Closed,RODNEY ALLISTER,9/16/25,RODNEY ALLISTER,status,In Testing,Closed,10502,6
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,Link,,This work item relates to TEST1-3387,,TEST1-3387
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3405,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3405,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18417
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,Link,,This work item relates to TEST1-3387,,TEST1-3387
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,priority,Medium,Major,10100,3
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3404,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3404,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18416
+TEST1-3403,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,IssueParentAssociation,,TEST1-3397,,200946
+TEST1-3403,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3403,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,description,,"h4. Regression Web Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5115?sectionId=64814&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5115?sectionId=64814&groupType=3]
+
+h4. Regression Mobile Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5116?sectionId=64816&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5116?sectionId=64816&groupType=3]",,
+TEST1-3403,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,status,Open,Closed,1,6
+TEST1-3402,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,IssueParentAssociation,,TEST1-3397,,200946
+TEST1-3402,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,assignee,,SARAH KONOR,,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3402,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3402,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3402,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3402,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3402,Closed,ULYSIS NAV,9/5/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3402,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,status,Ready for Testing,Closed,10004,6
+TEST1-3401,Closed,SOLOMON,9/5/25,ULYSIS NAV,IssueParentAssociation,,TEST1-3397,,200946
+TEST1-3401,Closed,SOLOMON,9/5/25,ULYSIS NAV,assignee,,SOLOMON,,635fbf721cc605b1fd176445
+TEST1-3401,Closed,SOLOMON,9/9/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3400,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,IssueParentAssociation,,TEST1-3397,,200946
+TEST1-3400,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,assignee,,SAM Z,,60674b51b5e5510069666a58
+TEST1-3400,Closed,ULYSIS NAV,9/5/25,SAM Z,status,Open,In Progress,1,3
+TEST1-3400,Closed,ULYSIS NAV,9/5/25,SAM Z,status,In Progress,Dev Completed,3,11503
+TEST1-3400,Closed,ULYSIS NAV,9/5/25,SAM Z,status,Dev Completed,PR Generated,11503,12408
+TEST1-3400,Closed,ULYSIS NAV,9/5/25,SAM Z,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3400,Closed,ULYSIS NAV,9/5/25,Automation for Jira,assignee,SAM Z,ULYSIS NAV,60674b51b5e5510069666a58,5b51b5f0da498c2c21cb92b0
+TEST1-3400,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,status,Ready for Testing,Closed,10004,6
+TEST1-3399,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,IssueParentAssociation,,TEST1-3387,,200743
+TEST1-3399,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3399,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,description,,"h4. Regression Web Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5115?sectionId=64813&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5115?sectionId=64813&groupType=3]
+
+
+
+h4. Regression Mobile Student
+
+[https://testworthy.us/TestCase/TestCaseList/1668/5116?sectionId=64817&groupType=3|https://testworthy.us/TestCase/TestCaseList/1668/5116?sectionId=64817&groupType=3]",,
+TEST1-3399,Closed,ULYSIS NAV,9/9/25,ULYSIS NAV,status,Open,Closed,1,6
+TEST1-3398,Closed,ANDREW ALAN,9/5/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3398,Closed,ANDREW ALAN,9/5/25,ANDREW ALAN,Fix Version,Phase 2 - Release 2.31,,21673,
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,ANDREW ALAN,assignee,ANDREW ALAN,SAM Z,712020:e772a2c1-4069-48d7-81e6-f08a381a7604,60674b51b5e5510069666a58
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,SAM Z,status,Open,In Progress,1,3
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,SAM Z,status,In Progress,Dev Completed,3,11503
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,SAM Z,status,Dev Completed,PR Generated,11503,12408
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,SAM Z,status,PR Generated,Dev Completed,12408,11503
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,SAM Z,status,Dev Completed,In Progress,11503,3
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,In Progress,Ready for Testing,3,10004
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,assignee,SAM Z,ULYSIS NAV,60674b51b5e5510069666a58,5b51b5f0da498c2c21cb92b0
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,Automation for Jira,assignee,SAM Z,ULYSIS NAV,60674b51b5e5510069666a58,5b51b5f0da498c2c21cb92b0
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3397,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3397,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18414
+TEST1-3395,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,assignee,SARAH KONOR,MATHEW SINNER,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,615af2a3c5388b006968ee2c
+TEST1-3395,Closed,ULYSIS NAV,9/5/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18388
+TEST1-3395,Closed,ULYSIS NAV,9/8/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3395,Closed,ULYSIS NAV,9/8/25,MATHEW SINNER,status,In Progress,Ready for Testing,3,10004
+TEST1-3395,Closed,ULYSIS NAV,9/8/25,Automation for Jira,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3395,Closed,ULYSIS NAV,9/8/25,ULYSIS NAV,Fix Version,,Phase 2 - Release 2.31,,21673
+TEST1-3395,Closed,ULYSIS NAV,9/8/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3395,Closed,ULYSIS NAV,9/8/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3395,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18412
+TEST1-3394,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,Link,,This work item relates to TEST1-2940,,TEST1-2940
+TEST1-3394,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,labels,,Hotfix_2.31,,
+TEST1-3394,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,labels,Hotfix_2.31,,,
+TEST1-3394,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,Fix Version,,Phase 2 - Release 2.31,,21673
+TEST1-3394,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,status,Open,Ready for Testing,1,10004
+TEST1-3394,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,assignee,SOLOMON,ULYSIS NAV,635fbf721cc605b1fd176445,5b51b5f0da498c2c21cb92b0
+TEST1-3394,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3394,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3394,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18415
+TEST1-3393,Closed,MATHEW SINNER,9/4/25,sheila salgado,status,Open,Closed,1,6
+TEST1-3393,Closed,MATHEW SINNER,9/8/25,ANDREW ALAN,assignee,,MATHEW SINNER,,615af2a3c5388b006968ee2c
+TEST1-3392,Closed,ULYSIS NAV,9/3/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3387,,200743
+TEST1-3392,Closed,ULYSIS NAV,9/3/25,ANDREW ALAN,assignee,,SARAH KONOR,,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de
+TEST1-3392,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Open,In Progress,1,3
+TEST1-3392,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,In Progress,Dev Completed,3,11503
+TEST1-3392,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,Dev Completed,PR Generated,11503,12408
+TEST1-3392,Closed,ULYSIS NAV,9/5/25,SARAH KONOR,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3392,Closed,ULYSIS NAV,9/5/25,Automation for Jira,assignee,SARAH KONOR,ULYSIS NAV,557058:b0c628f1-ed93-4dd9-b63b-2d77a92740de,5b51b5f0da498c2c21cb92b0
+TEST1-3392,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,status,Ready for Testing,Closed,10004,6
+TEST1-3391,Closed,SAM Z,9/3/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3387,,200743
+TEST1-3391,Closed,SAM Z,9/3/25,ANDREW ALAN,assignee,,SAM Z,,60674b51b5e5510069666a58
+TEST1-3391,Closed,SAM Z,10/28/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3390,Closed,SOLOMON,9/3/25,ANDREW ALAN,IssueParentAssociation,,TEST1-3387,,200743
+TEST1-3390,Closed,SOLOMON,9/3/25,ANDREW ALAN,assignee,,SOLOMON,,635fbf721cc605b1fd176445
+TEST1-3390,Closed,SOLOMON,10/28/25,ANDREW ALAN,status,Open,Closed,1,6
+TEST1-3389,Closed,ULYSIS NAV,9/3/25,ULYSIS NAV,issuetype,Task,Bug,3,1
+TEST1-3389,Closed,ULYSIS NAV,9/3/25,ULYSIS NAV,labels,,Regression_2.3,,
+TEST1-3389,Closed,ULYSIS NAV,9/4/25,ANDREW ALAN,Sprint,Phase 2 - Release 2.3,Phase 2 - Release 2.4,4513,4087
+TEST1-3389,Closed,ULYSIS NAV,9/4/25,SAMUEL NATURE,status,Open,In Progress,1,3
+TEST1-3389,Closed,ULYSIS NAV,9/4/25,SAMUEL NATURE,status,In Progress,Dev Completed,3,11503
+TEST1-3389,Closed,ULYSIS NAV,9/4/25,SAMUEL NATURE,status,Dev Completed,PR Generated,11503,12408
+TEST1-3389,Closed,ULYSIS NAV,9/4/25,SAMUEL NATURE,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3389,Closed,ULYSIS NAV,9/4/25,Automation for Jira,assignee,SAMUEL NATURE,ULYSIS NAV,6131ddecdae0a20071abad07,5b51b5f0da498c2c21cb92b0
+TEST1-3389,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,Fix Version,,Phase 2 - Release 2.31,,21673
+TEST1-3389,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3389,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3389,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18418
+TEST1-3387,Closed,ULYSIS NAV,9/2/25,Beatriz Carratalá Ortiz,IssueParentAssociation,,TEST1-1167,,175024
+TEST1-3387,Closed,ULYSIS NAV,9/2/25,ANDREW ALAN,assignee,,SAMUEL NATURE,,6131ddecdae0a20071abad07
+TEST1-3387,Closed,ULYSIS NAV,9/2/25,SAMUEL NATURE,Story Points,,2,,
+TEST1-3387,Closed,ULYSIS NAV,9/3/25,ANDREW ALAN,assignee,SAMUEL NATURE,SAM Z,6131ddecdae0a20071abad07,60674b51b5e5510069666a58
+TEST1-3387,Closed,ULYSIS NAV,9/3/25,ANDREW ALAN,Fix Version,,Phase 2 - Release 2.31,,21673
+TEST1-3387,Closed,ULYSIS NAV,9/4/25,MATHEW SINNER,status,Open,In Progress,1,3
+TEST1-3387,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,labels,,Hotfix_2.31,,
+TEST1-3387,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,Sprint,,Phase 2 - Release 2.4,,4087
+TEST1-3387,Closed,ULYSIS NAV,9/4/25,ULYSIS NAV,labels,Hotfix_2.31,,,
+TEST1-3387,Closed,ULYSIS NAV,9/4/25,SAM Z,status,In Progress,Dev Completed,3,11503
+TEST1-3387,Closed,ULYSIS NAV,9/4/25,SAM Z,status,Dev Completed,PR Generated,11503,12408
+TEST1-3387,Closed,ULYSIS NAV,9/5/25,SAM Z,status,PR Generated,Ready for Testing,12408,10004
+TEST1-3387,Closed,ULYSIS NAV,9/5/25,Automation for Jira,assignee,SAM Z,ULYSIS NAV,60674b51b5e5510069666a58,5b51b5f0da498c2c21cb92b0
+TEST1-3387,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,Ready for Testing,In Testing,10004,10502
+TEST1-3387,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,Link,,This work item relates to TEST1-3404,,TEST1-3404
+TEST1-3387,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,Link,,This work item relates to TEST1-3405,,TEST1-3405
+TEST1-3387,Closed,ULYSIS NAV,9/5/25,ULYSIS NAV,status,In Testing,Closed,10502,6
+TEST1-3387,Closed,ULYSIS NAV,9/8/25,ANDREW ALAN,RemoteWorkItemLink,,"This work item links to ""Page (Confluence)""",,18413
+TEST1-3386,Closed,ULYSIS NAV,9/2/25,ULYSIS NAV,IssueParentAssociation,,TEST1-3140,,195137
+TEST1-3386,Closed,ULYSIS NAV,9/2/25,ULYSIS NAV,assignee,,ULYSIS NAV,,5b51b5f0da498c2c21cb92b0
+TEST1-3386,Closed,ULYSIS NAV,9/2/25,ULYSIS NAV,status,Open,Closed,1,6
+TEST1-3386,Closed,ULYSIS NAV,9/2/25,ULYSIS NAV,description,,"public enum UserPreferenceType
+{
+    Healthbot = 1,
+    DashboardWidget = 2
+}
+
+ 
+
+public enum UserPreferenceKey
+{
+    Avatar = 1,
+    MyCurrentPerformance = 2
+}
+
+ 
+
+public enum HealthbotAvatar
+{
+
+ 
+
+    Male = 1,
+    Female = 2
+}
+
+
+
+!image-20250902-073137.png|width=790,height=423,alt=""image-20250902-073137.png""!",,
+TEST1-3385,Closed,ULYSIS NAV,9/2/25,ULYSIS NAV,status,Open,Ready for Testing,1,10004
+TEST1-3385,Closed,ULYSIS NAV,9/2/25,ULYSIS NAV,assignee,MATHEW SINNER,ULYSIS NAV,615af2a3c5388b006968ee2c,5b51b5f0da498c2c21cb92b0
+TEST1-3385,Closed,ULYSIS NAV,9/2/25,ULYSIS NAV,status,Ready for Testing,Closed,10004,6
+TEST1-3384,Closed,SAM Z,9/1/25,SAM Z,IssueParentAssociation,,TEST1-1317,,175716
+TEST1-3384,Closed,SAM Z,9/1/25,SAM Z,assignee,,SAM Z,,60674b51b5e5510069666a58
+TEST1-3384,Closed,SAM Z,9/2/25,SAM Z,status,Open,In Progress,1,3
+TEST1-3384,Closed,SAM Z,9/26/25,SAM Z,status,In Progress,Dev Completed,3,11503
+TEST1-3384,Closed,SAM Z,9/26/25,SAM Z,status,Dev Completed,PR Generated,11503,12408
+TEST1-3384,Closed,SAM Z,9/29/25,SAM Z,status,PR Generated,Closed,12408,6
+TEST1-3383,Closed,SOLOMON,9/1/25,SOLOMON,IssueParentAssociation,,TEST1-1317,,175716
+TEST1-3383,Closed,SOLOMON,9/1/25,SOLOMON,assignee,,SOLOMON,,635fbf721cc605b1fd176445
+TEST1-3383,Closed,SOLOMON,9/1/25,SOLOMON,status,Open,In Progress,1,3
+TEST1-3383,Closed,SOLOMON,9/29/25,ANDREW ALAN,status,In Progress,Dev Completed,3,11503
+TEST1-3383,Closed,SOLOMON,9/29/25,ANDREW ALAN,status,Dev Completed,PR Generated,11503,12408
+TEST1-3383,Closed,SOLOMON,9/29/25,ANDREW ALAN,status,PR Generated,Closed,12408,6
